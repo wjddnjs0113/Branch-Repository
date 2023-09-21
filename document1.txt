@@ -1,5 +1,4 @@
-def partition(l, r, nums):
-    pass
+# This modification has been conducted on the Branch1.
  
 # With quicksort() function, we will be utilizing the above code to obtain the pointer
 # at which the left values are all smaller than the number at pointer index and vice versa
@@ -16,10 +15,8 @@ def quicksort(l, r, nums):
     return nums
  
  
-# Test cases for quicksort algorithm.....
-example = [5, 4, 8, 7, 1, 3, 0, 2, 10, 6]
-print(quicksort(0, len(example)-1, example))
- 
+# This modification has been conducted on the Branch1.
+
 example = [2, 5, 6, 1, 4, 6, 2, 4, 7, 8]
 result = [1, 2, 2, 4, 4, 5, 6, 6, 7, 8]
 # As you can see, it works for duplicates too
