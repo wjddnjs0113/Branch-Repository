@@ -1,1 +1,2 @@
 파이썬
+python is a general-purpose computer programming language.

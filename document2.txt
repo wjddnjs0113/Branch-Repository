@@ -8,6 +8,7 @@ void merge(int arr[], int l,
 {
 	int i, j, k;
 	string "가", "나"
+	int n - m = m2
 	int n2 = r - m;
 
 	// Create temp arrays
